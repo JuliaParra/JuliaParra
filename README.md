@@ -1,3 +1,9 @@
+![github-header-image (2)](https://github.com/JuliaParra/JuliaParra/assets/168828648/e89f1012-bd70-4ae5-ad0c-bc689259dbac)
+
+
+
+
+
 <h1>👋 Hi, I’m @JuliaParra Bootcamp Factoria F5 student</h1>
 <p>👩  About Me</p>
 <p>-💡I like to explore and discover new technologies. I have a long way to go, but I'm enjoying this experience..</p> 
